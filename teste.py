@@ -17,3 +17,6 @@ nome=input("Insira seu nome: ")
 idade=int(input("Insira sua idade: "))
 futuro=(idade+27)
 print(f"Olá, {nome} você possui {idade} anos de idade. Daqui a 27 anos você vai ter {futuro} anos!")
+
+len(cerrado)
+print(len)
