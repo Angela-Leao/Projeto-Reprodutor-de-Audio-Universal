@@ -6,4 +6,4 @@ Python para análise e pesquisa
 C++ para velocidade e processamento de áudio
 HTML, css e java script para a interface de usuário 
 
-O app deve ser capaz de extrair e reproduzir o áudio de links da web ou youtube 
+O app deve ser capaz de extrair e reproduzir o áudio de links da web, youtube, spotify ou áudios extraidos de redes sociais 
